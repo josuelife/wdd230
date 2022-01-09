@@ -1,0 +1,47 @@
+body {
+  background-color: whitesmoke;
+  font-family: 'New Tegomin', serif;
+  max-width: 960px;
+  margin: 0 auto;
+  align: center;
+  text-align: left;
+  display: block;
+}
+
+header {
+  background-color: rgb(117, 36, 36);
+  color: rgb(219, 219, 219);
+  text-align: center;
+  border-radius: 10px;
+  padding: 10px;
+  border: 5px solid black;
+  font-size: 50px;
+}
+
+h2 {
+  color: rgb(117, 36, 36);
+  font-size: 35px;
+}
+img {
+  border: none;
+  border-radius: 10px;
+  float: right;
+  margin-top: 50px;
+  margin-right: 50px;
+  max-height: 20%;
+  max-width: 20%;
+  box-shadow: 5px 5px 10px black;
+}
+ul {}
+footer {
+  background-color: rgb(117, 36, 36);
+  color: rgb(219, 219, 219);
+  text-align: left;
+  border-radius: 10px;
+  padding: 15px;
+  border: 5px solid black;
+  font-size: 20px;
+}
+a {
+  color: brown;
+}
