@@ -1,0 +1,13 @@
+@media screen and (max-width: 32.5em) {
+
+h2 {
+  font-size: 1.5em;
+}
+header, footer {
+  border-radius: 0px;
+  font-size: 1.5em;
+}
+img {
+  float: none;
+}
+}
